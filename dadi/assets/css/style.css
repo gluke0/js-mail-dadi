@@ -1,0 +1,50 @@
+main{
+    width: 100%;
+    height: 100vh;
+    padding-top: 8rem;
+    background-color: lavender;
+    font-size: 3rem;
+}
+
+.box{
+    background-color: lavender;
+    width: 30%;
+    border-radius: 0.8rem;
+    margin: auto;
+}
+
+button{
+    border: none;
+    background-color: blueviolet;
+    padding: 0.7rem 1.6rem;
+    border-radius: 0.8rem;
+    margin-top: 2rem;
+}
+
+.vit{
+    color: green;
+}
+
+.scon{
+    color: red;
+}
+
+#refresh{
+    margin-top: 2rem;
+    padding: 0.3rem 2rem;
+    background-color: grey;
+    color: white;
+    font-size: 1rem;
+}
+
+.win{
+    background-color: green;
+}
+
+.lose{
+    background-color: red;
+}
+
+.tie{
+    background-color: grey;
+}
